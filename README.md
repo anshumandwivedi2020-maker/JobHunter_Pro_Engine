@@ -45,6 +45,13 @@ Users simply upload their existing resume (PDF/DOCX), enter their Telegram crede
 
 ---
 
+## 🌐 Instant Online Access (Zero Setup Required)
+Anyone can use the engine directly from their browser:
+* **🚀 Interactive Web Dashboard (`index.html`):** Open `index.html` in any web browser (or via GitHub Pages). It extracts text from your resume directly in the browser using PDF.js & Mammoth.js, queries the free Cloud LLM, generates tailored ATS resumes on the fly, and delivers directly to Telegram!
+* **☁️ 1-Click Streamlit Community Cloud Deploy:** [Deploy / Launch on Streamlit Cloud](https://share.streamlit.io/deploy?repository=anshumandwivedi2020-maker/JobHunter_Pro_Engine&branch=main&mainModule=app.py)
+
+---
+
 ## 💻 How to Run Locally (One-Click Launchers)
 
 ### macOS
